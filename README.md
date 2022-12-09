@@ -9,9 +9,9 @@ The SARAlerts framework is highly versatile (coded in Google Colab), with option
 There are two complementary codes to analyze the data generated from SARAlerts: Toxic_alert_list_???.ipynb and Molecular_filtering.ipynb
 
 The Clintox and Sider datasets are provided in two xlsx files: clintox.xlsx and sider.xlsx
-The Tox21 dataset is upload using DeepChem tools. DeepChem tools may also be used to upload any dataset in MoleculeNet or user-defined datset. 
+The Tox21 dataset is upload using DeepChem tools. DeepChem tools may also be used to upload any dataset in MoleculeNet or user-defined dataset. 
 
-<img src="Graphic Abstract.jpg" alt="drawing" width="600"/>
+<img src="Graphic Abstract.jpg" alt="drawing" width="800"/>
 
 # Installation instructions
 
