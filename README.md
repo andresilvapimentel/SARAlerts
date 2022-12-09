@@ -10,9 +10,7 @@ There are two complementary codes to analyze the data generated from SARAlerts: 
 
 The Clintox and Sider datasets are provided in two xlsx files: clintox.xlsx and sider.xlsx
 The Tox21 dataset is upload using DeepChem tools. DeepChem tools may also be used to upload any dataset in MoleculeNet or user-defined dataset. 
-
 <img src="Graphic Abstract.jpg" alt="drawing" width="800"/>
-
 # Installation instructions
 
 SARAlerts is 100% compatible with Google Colab platform developed in Microsoft Windows using Python version 3.8.
