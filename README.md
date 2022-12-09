@@ -27,7 +27,7 @@ SARAlerts is being actively developed and some issues may arise or you may need 
 
 1) Open a new issue in this repository
 Or 
-2) write an email to André Silva Pimentel (a_pimentel@puc-rio.br) (I will do our best to answer your questions as soon as possible).
+2) write an email to André Silva Pimentel (a_pimentel@puc-rio.br) (I will do my best to answer your questions as soon as possible).
 
 # License
 
