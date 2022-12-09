@@ -1,6 +1,5 @@
 # SARAlerts
-![My Image](emoji.png)
-img[alt=My Image] { width: 200px; }
+![My Image](emoji.png) img[alt=My Image] { width: 200px; }
 SARAlerts is a code to generate structural alerts (toxic alerts) using Local Interpretable Model-Agnostic Explanations (LIME) of machine learning models from Tox21, Clintox, and Sider datasets.
 SARAlerts means Serious Adverse Reaction Alerts
 
