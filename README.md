@@ -31,4 +31,9 @@ Or
 
 # License
 
-SARAlerts is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/SARAlerts (https://doi.org/10.5281/zenodo.7416484) 
+SARAlerts is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/SARAlerts (https://doi.org/10.5281/zenodo.7416484)
+
+# Contributors
+
+This code was written under collaboration:
+Cayque Monteiro Castro Nascimento (PhD student), who performed the analysis and Paloma Guimarães Moura (Undergraduate student), who wrote most of the code under my guiding as advisor.
