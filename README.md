@@ -1,4 +1,5 @@
 # SARAlerts
+[![DOI](https://zenodo.org/badge/576043558.svg)](https://zenodo.org/badge/latestdoi/576043558)
 <img src="emoji.png" alt="drawing" width="200"/>
 
 SARAlerts is a code to generate structural alerts (toxic alerts) using Local Interpretable Model-Agnostic Explanations (LIME) of machine learning models from Tox21, Clintox, and Sider datasets.
