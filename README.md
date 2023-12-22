@@ -22,6 +22,7 @@ SARAlerts has the following dependencies: Lime, RDkit, DeepChem, Pandas, Matplot
 # Documentation
 
 The complete documentation about how to run the SARAlerts protocol and several tutorials is being developed.
+https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00136e
 
 # Get help
 
